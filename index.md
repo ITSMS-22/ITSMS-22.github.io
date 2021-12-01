@@ -1,9 +1,8 @@
-# ITSMS 2022 
+---
+layout: default
+---
 
-The First International Workshop on Information Technology Storage Management Specification  
-at [ICPE 2022](https://icpe2022.spec.org/).
-
-## Workshop Theme and Goals
+# Workshop Theme and Goals
 
 Large Storage Systems and Storage Area Networks (SANs) are emerging as a prominent and independent layer of IT infrastructure in enterprise class and midrange computing environments. Examples of applications and functions driving the emergence of new storage technology include:
 
@@ -21,33 +20,33 @@ and iSCSI;
 - expand the total market.
 
 
-## Call for paper
+# Call for paper
 
 Topics of interest for the workshop include, but are not limited to:
-- Common profiles and storage subsystem-level management interface
-- Contains storage configuration files that support various forms of disk storage.
-- Contains configuration files that support file systems, such as NAS (Network Attached Storage).
-- Contains configuration files that handle the interconnection of host servers and storage devices, such as switches.
-- Contains configuration files for storage software on the host server, such as disk partitions and host hardware RAID controllers.
-- Contains configuration files for handling removable media, such as tape libraries.
+- **Common profiles and storage subsystem-level management interface**
+- **Contains storage configuration files that support various forms of disk storage.**
+- **Contains configuration files that support file systems, such as NAS (Network Attached Storage).**
+- **Contains configuration files that handle the interconnection of host servers and storage devices, such as switches.**
+- **Contains configuration files for storage software on the host server, such as disk partitions and host hardware RAID controllers.**
+- **Contains configuration files for handling removable media, such as tape libraries.**
 
-## Submissions
+# Submissions
 
 Submissions can be done via EasyChair (*coming soon*).
 
-ITSMS will be a full-day workshop with a single (no parallel) session, with at least 1 keynote and up to 2 invited presentations. Submitted papers should follow the 2-column ACM conference (https://www.acm.org/publications/proceedings-template) publication style and not exceed 6 pages (including references). Submissions can be research papers, position papers, case studies, or experience reports addressing above topics. Accepted papers will be published in the ICPE companion.
+ITSMS will be a full-day workshop with a single (no parallel) session, with at least 1 keynote and up to 2 invited presentations. Submitted papers should follow [the 2-column ACM conference](https://www.acm.org/publications/proceedings-template) publication style and not exceed 6 pages (including references). Submissions can be research papers, position papers, case studies, or experience reports addressing above topics. Accepted papers will be published in the ICPE companion.
 
-## Important Dates (AOE)
+# Important Dates (AOE)
 
 The accepted papers will be published in the ICPE 2022 Proceedings using the two-column ACM format. We propose the following tentative dates for the workshop:
-1. Paper submission: Jan 10, 2022
-2. Reviews due: Feb 10, 2022
-3. Acceptance Notification: Feb 15, 2022
-4. Camera ready: Feb 20, 2022
+1. **Paper submission: Jan 10, 2022**
+2. **Reviews due: Feb 10, 2022**
+3. **Acceptance Notification: Feb 15, 2022**
+4. **Camera ready: Feb 20, 2022**
 
-All deadlines are 11:59 pm AoE (Anywhere on Earth).
+**All deadlines are 11:59 pm AoE (Anywhere on Earth).**
 
-## Organizers
+# Organizers
 
 Wei Sun, China Electronics Standardization Institute, China
 
