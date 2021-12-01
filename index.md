@@ -34,7 +34,7 @@ Topics of interest for the workshop include, but are not limited to:
 
 # Submissions
 
-Submissions can be done via EasyChair (*coming soon*).
+Submissions can be done via [**EasyChair**](https://easychair.org/conferences/?conf=itsms2022).
 
 ITSMS will be a full-day workshop with a single (no parallel) session, with at least 1 keynote and up to 2 invited presentations. Submitted papers should follow [the 2-column ACM conference](https://www.acm.org/publications/proceedings-template) publication style and not exceed 6 pages (including references). Submissions can be research papers, position papers, case studies, or experience reports addressing above topics. Accepted papers will be published in the ICPE companion.
 
@@ -64,4 +64,10 @@ Lili Zhao, Huawei, China
 Xia He, Changhong IT, China  
 Haiying Tang, Dell EMC, China  
 Haiyan Li, Hikvision, China  
+
+---
+
+For more information, please contact us at: haizhou@hust.edu.cn
+
+
 
