@@ -1,6 +1,7 @@
 ---
 layout: default
 title: ITSMS Workshop
+description: The First International Workshop on Information Technology Storage Management Specification
 ---
 
 # Workshop Theme and Goals
