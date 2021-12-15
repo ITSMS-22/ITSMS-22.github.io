@@ -42,7 +42,7 @@ Wei Sun, China Electronics Standardization Institute, China
 Hai Zhou, Huazhong University of Science and Technology, China  
 Guanglei Xu, Huazhong University of Science and Technology, China  
 Xiao Zhang, Northwestern Polytechnical University, China  
-Zhe Deng, China University of Geosciences, Wuhan, China  
+Ze Deng, China University of Geosciences, Wuhan, China  
 Heliang Di, Inspur, China  
 Yujia Zhou, Xiaomi, China  
 Lili Zhao, Huawei, China  
