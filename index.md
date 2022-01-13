@@ -21,13 +21,15 @@ Topics of interest for the workshop include, but are not limited to:
 
 Submissions can be done via [**EasyChair**](https://easychair.org/conferences/?conf=itsms2022).
 
+If you can't submit your paper through EasyChair, you can sumbit it by emails to [haizhou@hust.edu.cn](mailto:haizhou@hust.edu.cn)
+
 ITSMS will be a full-day workshop with a single (no parallel) session, with at least 1 keynote and up to 2 invited presentations. Submitted papers should follow [the 2-column ACM conference](https://www.acm.org/publications/proceedings-template) publication style and not exceed 6 pages (including references). Submissions can be research papers, position papers, case studies, or experience reports addressing above topics. Accepted papers will be published in the ICPE companion.
 
 # Important Dates (AOE)
 
 The accepted papers will be published in the ICPE 2022 Proceedings using the two-column ACM format. We propose the following tentative dates for the workshop:
 
-1. **Paper submission: Jan 20, 2022**
+1. **Paper submission: Feb 10, 2022**
 2. **Acceptance Notification: Feb 15, 2022**
 3. **Camera ready: Feb 20, 2022**
 
@@ -52,7 +54,7 @@ Haiyan Li, Hikvision, China
 
 ---
 
-For more information, please contact us at: haizhou@hust.edu.cn
+For more information, please contact us at: [haizhou@hust.edu.cn](mailto:haizhou@hust.edu.cn)
 
 
 
