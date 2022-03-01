@@ -35,11 +35,19 @@ The accepted papers will be published in the ICPE 2022 Proceedings using the two
 
 **All deadlines are 11:59 pm AoE (Anywhere on Earth).**
 
+# Steering Committee
+
+Hong Yang, China Electronics Standardization Institute, China  
+Dan Feng, Huazhong University of Science and Technology, China
+
 # Organizers
 
 Wei Sun, China Electronics Standardization Institute, China
 
-## Program Committee
+
+
+
+# Program Committee
 
 Hai Zhou, Huazhong University of Science and Technology, China  
 Guanglei Xu, Huazhong University of Science and Technology, China  
