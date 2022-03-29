@@ -8,6 +8,22 @@ description: The First International Workshop on Information Technology Storage 
 
 Large Storage Systems and Storage Area Networks (SANs) are emerging as a prominent and independent layer of IT infrastructure in enterprise class and midrange computing environments. To accelerate the emergence of more functional and sophisticated storage systems in the market, the industry requires a standard management interface that allows different classes of hardware and software products supplied by multiple vendors to reliably and seamlessly interoperate for the purpose of monitoring and controlling resources. This interface is targeted at creating broad multi-vendor management interoperability and thus increasing customer satisfaction. To that end, many standard defines an "open" and extensible interface that allows subsystems and devices within the global context of a large storage system to be reliably and securely managed by overlying presentation frameworks and management systems in the context of the rapidly evolving multi-vendor market. In specific, SAN integrators (like end-users, VARs, and SSPs) can, via this standardized management interface, more flexibly select between multiple vendors when building the hierarchy of software systems required to manage a large storage system independent of the underlying hardware systems. Additionally, storage integrators can more flexibly select between alternate hardware vendors when constructing storage configurations. 
 
+# Program
+
+Note: The start of the workshop is 7:00 CEST, 13:00 Beijing Time (CST) on April 9, 2022.   
+
+Registration for ITSMS 2022 is combined with ICPE 2022 and free. For more information please refer to [ICPE registration page](https://icpe2022.spec.org/registration/).
+
+|   |   |
+| - | - |
+| 07:00 - 07:20 CEST <br> 13:00 - 13:20 CST | **Speaker**: Hong Yang (China Electronics Standardization Institute, China) <br> **International and Domestic Standards Updates on Storage Technologies** |
+| 07:20 - 07:40 CEST <br> 13:20 - 13:40 CST | **Speaker**: Ze Deng (China University of Geosciences (Wuhan), China) <br> **Scalability Support for SMI-S in WAN** |
+| 07:40 - 08:00 CEST <br> 13:40 - 14:00 CST | **Speaker**: Yi Feng (China Mobile, China) <br> **Innovative Practices for Diverse Storage Types of China Mobile** |
+| 08:00 - 08:20 CEST <br> 14:00 - 14:20 CST | **Speaker**: Lili Zhao (Huawei, China) <br> **Open Architecture Cloud Native Database Solution** |
+| 08:20 - 08:40 CEST <br> 14:20 - 14:40 CST | **Speaker**: Hai Zhou (Huazhong University of Science and Technology, China) <br> **An Introduction to Common Profiles in Storage Management Standards** |
+| 08:40 - 09:00 CEST <br> 14:40 - 15:00 CST | **Speaker**: Guanglei Xu (Huazhong University of Science and Technology, China) <br> **An Introduction to Block Devices in Storage Management Standards** |
+<!-- | 09:00 - 09:20 CEST <br> 15:00 - 15:20 CST | **Speaker**: Haijun Zhang (Inspur, China) <br>  | -->
+
 
 # Call for paper
 
@@ -24,6 +40,7 @@ Submissions can be done via [**EasyChair**](https://easychair.org/conferences/?c
 If you can't submit your paper through EasyChair, you can sumbit it by emails to [haizhou@hust.edu.cn](mailto:haizhou@hust.edu.cn)
 
 ITSMS will be a full-day workshop with a single (no parallel) session, with at least 1 keynote and up to 2 invited presentations. Submitted papers should follow [the 2-column ACM conference](https://www.acm.org/publications/proceedings-template) publication style and not exceed 6 pages (including references). Submissions can be research papers, position papers, case studies, or experience reports addressing above topics. Accepted papers will be published in the ICPE companion.
+
 
 # Important Dates (AOE)
 
@@ -43,9 +60,6 @@ Dan Feng, Huazhong University of Science and Technology, China
 # Organizers
 
 Wei Sun, China Electronics Standardization Institute, China
-
-
-
 
 # Program Committee
 

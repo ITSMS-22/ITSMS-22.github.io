@@ -1,0 +1,21 @@
+7:00 - 7:20 CEST
+13:00 - 13:20 CST
+Hong Yang(China Electronics Standardization Institute, China)-International and domestic standards updates on storage technologies
+7:20 - 7:40 CEST
+13:20 - 13:40 CST
+Ze Deng (China University of Geosciences (Wuhan), China)-Scalability Support for SMI-S in WAN    
+7:40 - 8:00 CEST
+13:40 - 14:00 CST
+Yi Feng (China Mobile, China)-Innovative practices for diverse storage types of China Mobile
+8:00 - 8:20 CEST
+14:00 - 14:20 CST
+Lili Zhao (Huawei, China)-open architecture cloud native database solution
+8:20 - 8:40 CEST
+14:20 - 14:40 CST
+Hai Zhou (Huazhong University of Science and Technology, China)-An Introduction to Common Profiles in Storage Management Standards 
+8:40 - 9:00 CEST
+14:40 - 15:00 CST
+Guanglei Xu (Huazhong University of Science and Technology, China)-An Introduction to Block Devices in Storage Management Standards
+09:00 - 09:20 CEST
+15:00 - 15:20 CST
+Haijun Zhang (Inspur, China)
