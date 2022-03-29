@@ -22,7 +22,6 @@ Registration for ITSMS 2022 is combined with ICPE 2022 and free. For more inform
 | 08:00 - 08:20 CEST <br> 14:00 - 14:20 CST | **Speaker**: Lili Zhao (Huawei, China) <br> **Open Architecture Cloud Native Database Solution** |
 | 08:20 - 08:40 CEST <br> 14:20 - 14:40 CST | **Speaker**: Hai Zhou (Huazhong University of Science and Technology, China) <br> **An Introduction to Common Profiles in Storage Management Standards** |
 | 08:40 - 09:00 CEST <br> 14:40 - 15:00 CST | **Speaker**: Guanglei Xu (Huazhong University of Science and Technology, China) <br> **An Introduction to Block Devices in Storage Management Standards** |
-<!-- | 09:00 - 09:20 CEST <br> 15:00 - 15:20 CST | **Speaker**: Haijun Zhang (Inspur, China) <br>  | -->
 
 
 # Call for paper
