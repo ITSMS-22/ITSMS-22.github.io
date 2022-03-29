@@ -14,14 +14,43 @@ Note: The start of the workshop is 7:00 CEST, 13:00 Beijing Time (CST) on April 
 
 Registration for ITSMS 2022 is combined with ICPE 2022 and free. For more information please refer to [ICPE registration page](https://icpe2022.spec.org/registration/).
 
-| 07:00 - 07:20 CEST <br> 13:00 - 13:20 CST | **Speaker**: Hong Yang (China Electronics Standardization Institute, China) <br> **International and Domestic Standards Updates on Storage Technologies** |
-| - | - |
+<!-- | - | - | -->
+<!-- | 07:00 - 07:20 CEST <br> 13:00 - 13:20 CST | **Speaker**: Hong Yang (China Electronics Standardization Institute, China) <br> **International and Domestic Standards Updates on Storage Technologies** |
 | 07:20 - 07:40 CEST <br> 13:20 - 13:40 CST | **Speaker**: Ze Deng (China University of Geosciences (Wuhan), China) <br> **Scalability Support for SMI-S in WAN** |
 | 07:40 - 08:00 CEST <br> 13:40 - 14:00 CST | **Speaker**: Yi Feng (China Mobile, China) <br> **Innovative Practices for Diverse Storage Types of China Mobile** |
 | 08:00 - 08:20 CEST <br> 14:00 - 14:20 CST | **Speaker**: Lili Zhao (Huawei, China) <br> **Open Architecture Cloud Native Database Solution** |
 | 08:20 - 08:40 CEST <br> 14:20 - 14:40 CST | **Speaker**: Hai Zhou (Huazhong University of Science and Technology, China) <br> **An Introduction to Common Profiles in Storage Management Standards** |
 | 08:40 - 09:00 CEST <br> 14:40 - 15:00 CST | **Speaker**: Guanglei Xu (Huazhong University of Science and Technology, China) <br> **An Introduction to Block Devices in Storage Management Standards** |
+ -->
 
+<table>
+  <tbody>
+    <tr>
+      <td nowrap="nowrap">07:00 - 07:20 CEST <br /> 13:00 - 13:20 CST</td>
+      <td><strong>Speaker</strong>: Hong Yang (China Electronics Standardization Institute, China) <br /> <strong>International and Domestic Standards Updates on Storage Technologies</strong></td>
+    </tr>
+    <tr>
+      <td nowrap="nowrap">07:20 - 07:40 CEST <br /> 13:20 - 13:40 CST</td>
+      <td><strong>Speaker</strong>: Ze Deng (China University of Geosciences (Wuhan), China) <br /> <strong>Scalability Support for SMI-S in WAN</strong></td>
+    </tr>
+    <tr>
+      <td nowrap="nowrap">07:40 - 08:00 CEST <br /> 13:40 - 14:00 CST</td>
+      <td><strong>Speaker</strong>: Yi Feng (China Mobile, China) <br /> <strong>Innovative Practices for Diverse Storage Types of China Mobile</strong></td>
+    </tr>
+    <tr>
+      <td nowrap="nowrap">08:00 - 08:20 CEST <br /> 14:00 - 14:20 CST</td>
+      <td><strong>Speaker</strong>: Lili Zhao (Huawei, China) <br /> <strong>Open Architecture Cloud Native Database Solution</strong></td>
+    </tr>
+    <tr>
+      <td nowrap="nowrap">08:20 - 08:40 CEST <br /> 14:20 - 14:40 CST</td>
+      <td><strong>Speaker</strong>: Hai Zhou (Huazhong University of Science and Technology, China) <br /> <strong>An Introduction to Common Profiles in Storage Management Standards</strong></td>
+    </tr>
+    <tr>
+      <td nowrap="nowrap">08:40 - 09:00 CEST <br /> 14:40 - 15:00 CST</td>
+      <td><strong>Speaker</strong>: Guanglei Xu (Huazhong University of Science and Technology, China) <br /> <strong>An Introduction to Block Devices in Storage Management Standards</strong></td>
+    </tr>
+  </tbody>
+</table>
 
 # Call for paper
 
