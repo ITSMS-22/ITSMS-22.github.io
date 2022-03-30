@@ -18,7 +18,7 @@ Registration for ITSMS 2022 is combined with ICPE 2022 and free. For more inform
   <tbody>
     <tr>
       <td nowrap="nowrap">07:00 - 07:20 CEST <br /> 13:00 - 13:20 CST</td>
-      <td nowrap="nowrap"><strong>Speaker</strong>: Hong Yang (China Electronics Standardization Institute, China) <br /> <strong>International and Domestic Standards Updates on Storage Technologies</strong></td>
+      <td nowrap="nowrap"><strong>Speaker</strong>: Wei Sun (China Electronics Standardization Institute, China) <br /> <strong>International and Domestic Standards Updates on Storage Technologies</strong></td>
     </tr>
     <tr>
       <td nowrap="nowrap">07:20 - 07:40 CEST <br /> 13:20 - 13:40 CST</td>
